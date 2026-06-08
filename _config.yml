@@ -22,7 +22,7 @@ repository               : "lee-research/lee-research.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar           : "profile.png"
+  avatar           : "Dongha_Lee.jpg"
   name             : "Dongha Lee"
   bio: "Incoming M.S. Student in Electrical Engineering at Stanford University. Interested in representation learning, information-theoretic principles of intelligence, and multimodal world models." #내용 수정하기 Interested in representation learning, world models, and embodied spatial intelligence.
   location         : "Stanford, CA"   
