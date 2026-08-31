@@ -24,10 +24,11 @@ repository               : "lee-research/lee-research.github.io"
 author:
   avatar           : "Dongha_Lee.jpg"
   name             : "Dongha Lee"
-  bio              : "Incoming M.S. Student in Electrical Engineering at Stanford University. Interested in representation learning, information-theoretic principles of intelligence, and world models." #내용 수정하기 Interested in representation learning, world models, and embodied spatial intelligence.
-  location         : "Stanford, CA"   
+  bio              : "Incoming M.S. student in Electrical Engineering at Stanford University."
+  location         : "Stanford, CA"
   employer         : "Stanford University"
   email            : "dhalee@stanford.edu"
+  github           : "lee-research"
 
   # Academic websites
   academia         : # URL
