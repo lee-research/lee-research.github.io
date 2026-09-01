@@ -295,28 +295,6 @@
   line-height: 1.65;
 }
 
-.experience-tags {
-  display: flex;
-  flex-wrap: wrap;
-
-  gap: 0.4rem;
-
-  margin-top: 0.9rem;
-}
-
-.experience-tags span {
-  padding: 0.24rem 0.55rem;
-
-  border: 1px solid var(--global-border-color);
-  border-radius: 999px;
-
-  font-size: 0.68rem;
-  line-height: 1.3;
-
-  color: var(--global-text-color-light);
-}
-
-
 /* Mobile */
 @media (max-width: 768px) {
 
