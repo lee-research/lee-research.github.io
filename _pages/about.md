@@ -64,7 +64,6 @@ and efficient adaptation.
   </li>
 </ul>
 
-## Selected Research
 
 <h2>Selected Research</h2>
 
