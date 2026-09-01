@@ -65,45 +65,55 @@ representation learning.
 <div class="experience-list">
 
   <div class="experience-item">
-    <div class="experience-header">
+    <div class="experience-top">
       <div>
         <h3>Research Intern</h3>
-        <p class="experience-place">Computer Vision & Machine Learning Lab · Chung-Ang University</p>
+        <div class="experience-org">
+          Computer Vision & Machine Learning Lab · Chung-Ang University
+        </div>
       </div>
-      <span class="experience-date">Nov. 2024 – Aug. 2026</span>
+      <div class="experience-date">
+        Nov. 2024 – Aug. 2026
+      </div>
     </div>
 
-    <p>
+    <p class="experience-desc">
       Conducted research on parameter-efficient fine-tuning and
-      information-theoretic representation learning under
-      Prof. Junseok Kwon.
+      information-theoretic representation learning under Prof. Junseok Kwon.
     </p>
 
-    <p class="experience-highlight">
-      ABM-LoRA · Information Bottleneck · Multimodal Representation Learning
-    </p>
+    <div class="experience-tags">
+      <span>ABM-LoRA</span>
+      <span>Information Bottleneck</span>
+      <span>Representation Learning</span>
+    </div>
   </div>
 
 
   <div class="experience-item">
-    <div class="experience-header">
+    <div class="experience-top">
       <div>
         <h3>Team Leader & Lead Researcher</h3>
-        <p class="experience-place">
+        <div class="experience-org">
           ESG Practical Problem-Solving Research Program · Chung-Ang University
-        </p>
+        </div>
       </div>
-      <span class="experience-date">May 2024 – Dec. 2024</span>
+      <div class="experience-date">
+        May 2024 – Dec. 2024
+      </div>
     </div>
 
-    <p>
+    <p class="experience-desc">
       Led a multidisciplinary team developing a noise-robust multimodal
       recognition system combining lip reading and automatic speech recognition.
     </p>
 
-    <p class="experience-highlight">
-      Multimodal Learning · Lip Reading · ASR · PyTorch
-    </p>
+    <div class="experience-tags">
+      <span>Multimodal Learning</span>
+      <span>Lip Reading</span>
+      <span>ASR</span>
+      <span>PyTorch</span>
+    </div>
   </div>
 
 </div>
