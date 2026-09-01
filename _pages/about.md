@@ -13,8 +13,6 @@ redirect_from:
   Incoming M.S. Student · Stanford Electrical Engineering
 </p>
 
-<h1>Dongha Lee</h1>
-
 <p class="home-lead">
 I am interested in understanding how intelligent systems
 <strong>acquire, compress, and utilize information</strong>
