@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "Portfolio"
 permalink: /portfolio/
@@ -11,4 +11,177 @@ author_profile: true
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
+ -->
 
+---
+layout: archive
+title: "Projects"
+permalink: /portfolio/
+author_profile: true
+---
+
+<div class="projects-intro">
+  <p>
+    Selected projects exploring representation learning, efficient adaptation,
+    information-theoretic learning, and multimodal systems.
+  </p>
+</div>
+
+<div class="project-list">
+
+  <!-- ABM-LoRA -->
+  <div class="project-item">
+
+    <div class="project-meta">
+      Research · 2025–2026
+    </div>
+
+    <h2>Activation Boundary Matching</h2>
+
+    <p class="project-subtitle">
+      Task-Informed Initialization for Low-Rank Adaptation
+    </p>
+
+    <p class="project-question">
+      How can early adaptation dynamics provide useful structure
+      for initializing parameter-efficient models?
+    </p>
+
+    <p class="project-desc">
+      We found that activation boundaries stabilize earlier than activation
+      values during adaptation. ABM-LoRA transfers these early-emerging
+      boundaries from a short probe adapter to initialize LoRA, providing
+      direct layer-wise supervision without additional inference overhead.
+    </p>
+
+    <p class="project-note">
+      Under Review at AAAI 2027 · Co-first Author
+    </p>
+
+    <div class="project-links">
+      <a href="https://arxiv.org/abs/2511.19145"
+         target="_blank" rel="noopener">
+        arXiv
+      </a>
+
+      <a href="https://github.com/lee-research/ABM-LORA"
+         target="_blank" rel="noopener">
+        Code
+      </a>
+    </div>
+
+  </div>
+
+
+  <!-- Information-Theoretic Representation Learning -->
+  <div class="project-item">
+
+    <div class="project-meta">
+      Research · 2025
+    </div>
+
+    <h2>Information-Theoretic Representation Learning</h2>
+
+    <p class="project-subtitle">
+      Information Bottleneck and Invariant Representations
+    </p>
+
+    <p class="project-question">
+      What information should a learned representation preserve,
+      discard, or separate?
+    </p>
+
+    <p class="project-desc">
+      Studied Information Bottleneck and invariant information principles
+      to characterize information retention in deep representations and
+      distinguish task-relevant structure from spurious features.
+      This work also motivated later investigation into which internal
+      representational structures can be transferred during adaptation.
+    </p>
+
+    <p class="project-note">
+      IEIE Summer Conference 2025 · First Author · Poster
+    </p>
+
+    <div class="project-links">
+      <a href="https://drive.google.com/file/d/1JDvm08fTdV8UKdTJb93mmhfr-jLsnDpv/view?usp=sharing"
+         target="_blank" rel="noopener">
+        Supplementary
+      </a>
+    </div>
+
+  </div>
+
+
+  <!-- HI-LoRA -->
+  <div class="project-item">
+
+    <div class="project-meta">
+      Independent Research · 2025
+    </div>
+
+    <h2>HI-LoRA</h2>
+
+    <p class="project-subtitle">
+      Hybrid Initialization for Low-Rank Adaptation
+    </p>
+
+    <p class="project-question">
+      What information is lost when low-rank adaptation is initialized
+      using only gradients or activation magnitude?
+    </p>
+
+    <p class="project-desc">
+      Designed a hybrid LoRA initialization strategy combining
+      gradient-based and magnitude-based information to preserve both
+      directional and scale information. The method improved early-training
+      stability and reduced variance across random seeds.
+    </p>
+
+    <p class="project-note">
+      Undergraduate Thesis · Independent Research
+    </p>
+
+    <div class="project-links">
+      <a href="https://github.com/lee-research/HI-LoRA"
+         target="_blank" rel="noopener">
+        Code
+      </a>
+    </div>
+
+  </div>
+
+
+  <!-- Noise-Robust Multimodal Recognition -->
+  <div class="project-item">
+
+    <div class="project-meta">
+      Multimodal Learning · 2024
+    </div>
+
+    <h2>Noise-Robust Multimodal Recognition</h2>
+
+    <p class="project-subtitle">
+      Adaptive Lip Reading and Speech Recognition
+    </p>
+
+    <p class="project-question">
+      How can visual and auditory information be combined adaptively
+      when speech becomes unreliable under noise?
+    </p>
+
+    <p class="project-desc">
+      Led a five-person interdisciplinary team developing a multimodal
+      recognition system that dynamically switches between lip reading
+      and automatic speech recognition based on estimated noise levels.
+      Built synthetic noisy training data and implemented a LipNet-based
+      CNN-GRU pipeline in PyTorch.
+    </p>
+
+    <p class="project-note">
+      Team Leader & Lead Researcher · Chung-Ang University
+    </p>
+
+  </div>
+
+</div>
