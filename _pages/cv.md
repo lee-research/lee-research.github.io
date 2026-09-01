@@ -5,15 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-<div class="cv-intro">
-
-  <p>
-    M.S. student in Electrical Engineering at Stanford University,
-    interested in the mathematical foundations of machine learning,
-    representation learning, information-theoretic learning,
-    and efficient adaptation.
-  </p>
-
   <div class="cv-actions">
     <a href="/files/CV_Dongha_Lee.pdf"
        target="_blank"
@@ -25,8 +16,6 @@ author_profile: true
       Email
     </a>
   </div>
-
-</div>
 
 
 <h2>Education</h2>
@@ -48,12 +37,6 @@ author_profile: true
 
     <p class="cv-location">
       Stanford, CA, USA
-    </p>
-
-    <p class="cv-desc">
-      Research interests: foundations of machine learning,
-      representation learning, information-theoretic learning,
-      and efficient adaptation.
     </p>
 
   </div>
@@ -141,7 +124,7 @@ author_profile: true
     </div>
 
     <span class="cv-date">
-      June 2025 – Dec. 2025
+      Jun. 2025 – Dec. 2025
     </span>
   </div>
 
@@ -397,7 +380,7 @@ author_profile: true
 </div>
 
 
-<h2>Creative Experience</h2>
+<h2>Creative & Professional Experience</h2>
 
 <div class="cv-list">
 
