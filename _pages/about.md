@@ -61,30 +61,38 @@ representation learning.
 
 <h2>Selected Research</h2>
 
-<div class="research-grid">
+<div class="research-list">
 
-  <div class="research-card">
+  <div class="research-item">
     <div class="research-meta">
-      AAAI 2027 · Under Review
+      AAAI 2027 · Under Review · Co-first Author
     </div>
 
-    <h3>ABM-LoRA</h3>
+    <h3>Activation Boundary Matching</h3>
 
     <p class="research-subtitle">
-      Activation Boundary Matching for Low-Rank Adaptation
+      Task-Informed Initialization for Low-Rank Adaptation
     </p>
 
     <p class="research-desc">
-      A task-informed LoRA initialization method that transfers
-      early-emerging activation boundaries from a short probe adapter
-      to accelerate adaptation without additional inference overhead.
+      We found that activation boundaries stabilize earlier than activation
+      values during adaptation, and use this structure to initialize LoRA
+      from a short probe adapter without additional inference overhead.
     </p>
+
+    <div class="research-links">
+      <a href="https://arxiv.org/abs/2511.19145"
+         target="_blank" rel="noopener">arXiv</a>
+
+      <a href="https://github.com/lee-research/ABM-LORA"
+         target="_blank" rel="noopener">Code</a>
+    </div>
   </div>
 
 
-  <div class="research-card">
+  <div class="research-item">
     <div class="research-meta">
-      IEIE 2025 · Poster
+      IEIE 2025 · First Author · Poster
     </div>
 
     <h3>Information-Theoretic Representation Learning</h3>
@@ -94,16 +102,21 @@ representation learning.
     </p>
 
     <p class="research-desc">
-      Investigated how information-theoretic principles characterize
-      information retention and the separation of task-relevant and
-      spurious features in learned representations.
+      Studied how information-theoretic principles characterize information
+      retention and help distinguish task-relevant from spurious structure
+      in learned representations.
     </p>
+
+    <div class="research-links">
+      <a href="https://drive.google.com/file/d/1JDvm08fTdV8UKdTJb93mmhfr-jLsnDpv/view?usp=sharing"
+         target="_blank" rel="noopener">Supplementary</a>
+    </div>
   </div>
 
 
-  <div class="research-card">
+  <div class="research-item">
     <div class="research-meta">
-      Undergraduate Thesis
+      Undergraduate Thesis · Independent Research
     </div>
 
     <h3>HI-LoRA</h3>
@@ -113,10 +126,15 @@ representation learning.
     </p>
 
     <p class="research-desc">
-      Studied LoRA initialization through a hybrid strategy combining
-      gradient- and magnitude-based information to improve early-training
-      stability and reduce sensitivity to random initialization.
+      Investigated LoRA initialization by combining gradient-based and
+      magnitude-based information, improving early-training stability
+      and reducing sensitivity to random initialization.
     </p>
+
+    <div class="research-links">
+      <a href="https://github.com/lee-research/HI-LoRA"
+         target="_blank" rel="noopener">Code</a>
+    </div>
   </div>
 
 </div>
