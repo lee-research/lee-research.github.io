@@ -41,7 +41,6 @@ and efficient adaptation.
   <li>Representation Learning</li>
   <li>Information-Theoretic Learning</li>
   <li>Efficient Adaptation</li>
-  <li>Multimodal Learning</li>
 </ul>
 
 ## News
