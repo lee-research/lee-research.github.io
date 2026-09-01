@@ -916,32 +916,35 @@
 
 
 /* News */
-.news-list-simple {
-  margin: 0.8rem 0 2.5rem;
-  padding: 0;
-  list-style: none;
+.news-simple {
+  margin-top: 0.8rem;
+  margin-bottom: 2.5rem;
 }
 
-.news-list-simple li {
-  display: grid;
-  grid-template-columns: 105px 1fr;
-  gap: 0.45rem;
-
+.news-simple > div {
   margin-bottom: 0.45rem;
 
-  font-size: 0.82rem;
+  font-size: 0.78rem;
   line-height: 1.5;
-}
 
-.news-date-simple {
-  font-weight: 700;
   white-space: nowrap;
 }
 
-@media (max-width: 768px) {
-  .news-list-simple li {
-    grid-template-columns: 1fr;
-    gap: 0.05rem;
-    margin-bottom: 0.8rem;
+.news-simple strong {
+  display: inline-block;
+  width: 100px;
+
+  font-weight: 700;
+}
+
+/* Mobile */
+@media (max-width: 900px) {
+  .news-simple > div {
+    white-space: normal;
+  }
+
+  .news-simple strong {
+    width: auto;
+    margin-right: 0.35rem;
   }
 }
