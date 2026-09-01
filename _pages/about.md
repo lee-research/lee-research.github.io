@@ -20,9 +20,9 @@ through learned representations.
 </p>
 
 <p>
-My research interests span representation learning,
-information-theoretic learning, multimodal intelligence,
-world models, and efficient adaptation.
+My research focuses on <strong>foundational questions in machine learning</strong>,
+particularly representation learning, information-theoretic principles,
+and efficient adaptation.
 </p>
 
 <div class="home-links">
