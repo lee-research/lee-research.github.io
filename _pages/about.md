@@ -53,22 +53,22 @@ and efficient adaptation.
 
 <h2>News</h2>
 
-<ul class="news-list">
+<ul class="news-list-simple">
   <li>
-    <span class="news-date">2026.09</span>
+    <span class="news-date-simple">[Sep. 2026]</span>
     <span>Joining Stanford University as an M.S. student in Electrical Engineering.</span>
   </li>
 
   <li>
-    <span class="news-date">2025.05</span>
+    <span class="news-date-simple">[May 2025]</span>
     <span>
       Our work on information-theoretic representation learning
-      was accepted to the IEIE Summer Conference 2025.
+      was accepted to IEIE Summer Conference 2025.
     </span>
   </li>
 
   <li>
-    <span class="news-date">2024.11</span>
+    <span class="news-date-simple">[Nov. 2024]</span>
     <span>
       Joined the Computer Vision & Machine Learning Lab at Chung-Ang University
       as an undergraduate research intern.
