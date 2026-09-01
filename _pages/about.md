@@ -13,10 +13,22 @@ redirect_from:
   Incoming M.S. Student · Stanford Electrical Engineering
 </p>
 
-<p class="home-lead">
+<!-- <p class="home-lead">
 I am interested in understanding how intelligent systems
 <strong>acquire, compress, and utilize information</strong>
 through learned representations.
+</p>
+
+<p>
+My research focuses on <strong>foundational questions in machine learning</strong>,
+particularly representation learning, information-theoretic principles,
+and efficient adaptation.
+</p> -->
+
+<p class="home-lead">
+I am interested in understanding the
+<strong>mathematical principles underlying learning and intelligence</strong>,
+and using these insights to design better learning algorithms.
 </p>
 
 <p>
