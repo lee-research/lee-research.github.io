@@ -32,9 +32,7 @@ and efficient adaptation.
   </p>
 
   <p>
-    My current interests include representation learning,
-    information-theoretic learning, efficient adaptation,
-    probabilistic modeling and inference, and optimization and learning dynamics.
+    My current interests include information-theoretic learning, probabilistic modeling and inference, and optimization-driven learning dynamics.
   </p>
   
 <!-- <div class="home-links">
