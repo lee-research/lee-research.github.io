@@ -9,10 +9,6 @@ redirect_from:
 
 <div class="home-intro">
 
-<p class="home-kicker">
-  Incoming M.S. Student · Stanford Electrical Engineering
-</p>
-
 <!-- <p class="home-lead">
 I am interested in understanding how intelligent systems
 <strong>acquire, compress, and utilize information</strong>
@@ -37,19 +33,18 @@ particularly representation learning, information-theoretic principles,
 and efficient adaptation.
 </p>
 
-<div class="home-links">
+<!-- <div class="home-links">
   <a href="mailto:dhalee@stanford.edu">Email</a>
   <a href="https://github.com/lee-research">GitHub</a>
   <a href="/publications/">Publications</a>
   <a href="/cv/">CV</a>
-</div>
+</div> -->
 
 </div>
 
 ## Research Interests
 
 <ul class="interest-tags">
-  <li>Foundations of Machine Learning</li>
   <li>Representation Learning</li>
   <li>Information-Theoretic Learning</li>
   <li>Efficient Adaptation</li>
