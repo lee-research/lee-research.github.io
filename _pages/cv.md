@@ -112,22 +112,66 @@ author_profile: true
 
     <ul class="cv-bullets">
       <li>
-        Developed ABM-LoRA, a task-informed initialization method
+        Developed ABM-LoRA, a task-informed initialization method 
         for low-rank adaptation based on early-emerging activation boundaries.
       </li>
 
       <li>
-        Investigated Information Bottleneck principles for understanding
-        invariant and task-relevant representations.
+        Evaluated ABM-LoRA across vision and language models, 
+        comparing against established LoRA initialization methods.
       </li>
 
       <li>
-        Conducted independent research on hybrid initialization strategies
-        for parameter-efficient adaptation.
+            Investigated Information Bottleneck principles to understand 
+            information retention and distinguish task-relevant from spurious 
+            features in learned representations.
       </li>
     </ul>
 
   </div>
+
+  <div class="cv-entry">
+
+  <div class="cv-entry-top">
+    <div>
+      <h3>HI-LoRA: Hybrid Initialization for Low-Rank Adaptation</h3>
+      <p class="cv-subtitle">
+        Undergraduate Thesis · Independent Research
+      </p>
+    </div>
+
+    <span class="cv-date">
+      June 2025 – Dec. 2025
+    </span>
+  </div>
+
+  <p class="cv-location">
+    Chung-Ang University
+  </p>
+
+  <ul class="cv-bullets">
+    <li>
+      Designed a hybrid LoRA initialization method combining
+      gradient-based and magnitude-based information to preserve
+      both directional and scale information.
+    </li>
+
+    <li>
+      Improved early-training stability and reduced seed variance,
+      suggesting that initialization errors arise from both
+      magnitude distortion and tangent-space misalignment.
+    </li>
+  </ul>
+
+  <div class="cv-links">
+    <a href="https://github.com/lee-research/HI-LoRA"
+       target="_blank"
+       rel="noopener">
+      Code
+    </a>
+  </div>
+
+</div>
 
 
   <div class="cv-entry">
@@ -325,6 +369,29 @@ author_profile: true
       during the pandemic.
     </p>
 
+  </div>
+
+  <div class="cv-entry compact">
+  
+    <div class="cv-entry-top">
+      <div>
+        <h3>Finders Family · Photography Club</h3>
+        <p class="cv-subtitle">
+          Exhibition Coordinator
+        </p>
+      </div>
+  
+      <span class="cv-date">
+        Nov. 2019 – Nov. 2020
+      </span>
+    </div>
+  
+    <p class="cv-desc">
+      Organized the club's first virtual exhibition, managing curation
+      and the online hosting platform. Led photo critique and editing
+      sessions focused on visual composition and post-processing.
+    </p>
+  
   </div>
 
 </div>
