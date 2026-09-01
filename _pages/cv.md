@@ -31,7 +31,7 @@ author_profile: true
       </div>
 
       <span class="cv-date">
-        Sep. 2026 – Expected June 2028
+        Sep. 2026 – Jun. 2028 (Expected)
       </span>
     </div>
 
