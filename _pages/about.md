@@ -21,17 +21,22 @@ particularly representation learning, information-theoretic principles,
 and efficient adaptation.
 </p> -->
 
-<p class="home-lead">
-  I am interested in understanding the
-  <strong>mathematical principles underlying learning and intelligence</strong>
-  and using these insights to design better learning algorithms.
+  <p>
+    I am an M.S. student in Electrical Engineering at
+    <a href="https://www.stanford.edu/" target="_blank" rel="noopener">
+      Stanford University
+    </a>.
+    I am interested in understanding the mathematical foundations of
+    learning and intelligence, and in using these principles to design
+    better learning algorithms.
+  </p>
 
-  <span class="home-focus">
-    My work currently focuses on representation learning,
-    information-theoretic learning, and efficient adaptation.
-  </span>
-</p>
-
+  <p>
+    My current interests include representation learning,
+    information-theoretic learning, efficient adaptation,
+    probabilistic modeling and inference, and optimization and learning dynamics.
+  </p>
+  
 <!-- <div class="home-links">
   <a href="mailto:dhalee@stanford.edu">Email</a>
   <a href="https://github.com/lee-research">GitHub</a>
