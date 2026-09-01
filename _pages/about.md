@@ -81,11 +81,6 @@ representation learning.
       information-theoretic representation learning under Prof. Junseok Kwon.
     </p>
 
-    <div class="experience-tags">
-      <span>ABM-LoRA</span>
-      <span>Information Bottleneck</span>
-      <span>Representation Learning</span>
-    </div>
   </div>
 
 
@@ -107,12 +102,6 @@ representation learning.
       recognition system combining lip reading and automatic speech recognition.
     </p>
 
-    <div class="experience-tags">
-      <span>Multimodal Learning</span>
-      <span>Lip Reading</span>
-      <span>ASR</span>
-      <span>PyTorch</span>
-    </div>
   </div>
 
 </div>
