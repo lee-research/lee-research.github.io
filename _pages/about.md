@@ -48,6 +48,8 @@ and efficient adaptation.
   <li>Representation Learning</li>
   <li>Information-Theoretic Learning</li>
   <li>Efficient Adaptation</li>
+  <li>Probabilistic Modeling & Inference</li>
+  <li>Optimization & Learning Dynamics</li>
 </ul>
 
 ## News
