@@ -59,3 +59,51 @@ My previous research has explored efficient adaptation and knowledge
 transfer in deep neural networks, including parameter-efficient
 fine-tuning, knowledge distillation, and information bottleneck-based
 representation learning.
+
+<h2>Experience</h2>
+
+<div class="experience-list">
+
+  <div class="experience-item">
+    <div class="experience-header">
+      <div>
+        <h3>Research Intern</h3>
+        <p class="experience-place">Computer Vision & Machine Learning Lab · Chung-Ang University</p>
+      </div>
+      <span class="experience-date">Nov. 2024 – Aug. 2026</span>
+    </div>
+
+    <p>
+      Conducted research on parameter-efficient fine-tuning and
+      information-theoretic representation learning under
+      Prof. Junseok Kwon.
+    </p>
+
+    <p class="experience-highlight">
+      ABM-LoRA · Information Bottleneck · Multimodal Representation Learning
+    </p>
+  </div>
+
+
+  <div class="experience-item">
+    <div class="experience-header">
+      <div>
+        <h3>Team Leader & Lead Researcher</h3>
+        <p class="experience-place">
+          ESG Practical Problem-Solving Research Program · Chung-Ang University
+        </p>
+      </div>
+      <span class="experience-date">May 2024 – Dec. 2024</span>
+    </div>
+
+    <p>
+      Led a multidisciplinary team developing a noise-robust multimodal
+      recognition system combining lip reading and automatic speech recognition.
+    </p>
+
+    <p class="experience-highlight">
+      Multimodal Learning · Lip Reading · ASR · PyTorch
+    </p>
+  </div>
+
+</div>
