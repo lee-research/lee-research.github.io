@@ -489,3 +489,140 @@
   border-color: var(--global-link-color);
   color: var(--global-link-color);
 }
+
+/* ========================================
+   Projects
+   ======================================== */
+
+.projects-intro {
+  max-width: 850px;
+  margin-bottom: 2rem;
+}
+
+.projects-intro p {
+  margin: 0 !important;
+
+  font-size: 0.9rem !important;
+  line-height: 1.7 !important;
+
+  color: var(--global-text-color-light);
+}
+
+
+.project-list {
+  margin-top: 1rem;
+}
+
+
+.project-item {
+  padding: 1.6rem 0;
+
+  border-top: 1px solid var(--global-border-color);
+}
+
+.project-item:last-child {
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+
+.project-meta {
+  margin-bottom: 0.45rem;
+
+  font-size: 0.7rem;
+  font-weight: 700;
+
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+
+  color: var(--global-link-color);
+}
+
+
+.project-item h2 {
+  max-width: 900px;
+
+  margin: 0 0 0.25rem !important;
+  padding: 0 !important;
+
+  border: 0 !important;
+
+  font-size: 1.1rem !important;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+
+.project-subtitle {
+  margin: 0 !important;
+
+  font-size: 0.82rem !important;
+  line-height: 1.5;
+
+  color: var(--global-text-color-light);
+}
+
+
+.project-question {
+  max-width: 850px;
+
+  margin: 0.9rem 0 0 !important;
+
+  font-size: 0.86rem !important;
+  font-weight: 600;
+  line-height: 1.6;
+}
+
+
+.project-desc {
+  max-width: 850px;
+
+  margin: 0.55rem 0 0 !important;
+
+  font-size: 0.84rem !important;
+  line-height: 1.7;
+}
+
+
+.project-note {
+  margin: 0.7rem 0 0 !important;
+
+  font-size: 0.72rem !important;
+  font-weight: 600;
+
+  color: var(--global-text-color-light);
+}
+
+
+.project-links {
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: 0.45rem;
+
+  margin-top: 0.85rem;
+}
+
+
+.project-links a {
+  display: inline-block;
+
+  padding: 0.3rem 0.65rem;
+
+  border: 1px solid var(--global-border-color);
+  border-radius: 999px;
+
+  font-size: 0.72rem !important;
+  font-weight: 600;
+
+  text-decoration: none !important;
+
+  transition:
+    border-color 0.15s ease,
+    color 0.15s ease;
+}
+
+
+.project-links a:hover {
+  border-color: var(--global-link-color);
+  color: var(--global-link-color);
+}
