@@ -916,12 +916,32 @@
 
 
 /* News */
-.news-list li {
-  font-size: 0.82rem !important;
-  line-height: 1.55;
+.news-list-simple {
+  margin: 0.8rem 0 2.5rem;
+  padding: 0;
+  list-style: none;
 }
 
-.news-date {
-  font-size: 0.76rem !important;
-  font-weight: 600;
+.news-list-simple li {
+  display: grid;
+  grid-template-columns: 105px 1fr;
+  gap: 0.45rem;
+
+  margin-bottom: 0.45rem;
+
+  font-size: 0.82rem;
+  line-height: 1.5;
+}
+
+.news-date-simple {
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+  .news-list-simple li {
+    grid-template-columns: 1fr;
+    gap: 0.05rem;
+    margin-bottom: 0.8rem;
+  }
 }
