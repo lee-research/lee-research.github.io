@@ -22,15 +22,14 @@ and efficient adaptation.
 </p> -->
 
 <p class="home-lead">
-I am interested in understanding the
-<strong>mathematical principles underlying learning and intelligence</strong>,
-and using these insights to design better learning algorithms.
-</p>
+  I am interested in understanding the
+  <strong>mathematical principles underlying learning and intelligence</strong>
+  and using these insights to design better learning algorithms.
 
-<p>
-My research focuses on <strong>foundational questions in machine learning</strong>,
-particularly representation learning, information-theoretic principles,
-and efficient adaptation.
+  <span class="home-focus">
+    My work currently focuses on representation learning,
+    information-theoretic learning, and efficient adaptation.
+  </span>
 </p>
 
 <!-- <div class="home-links">
