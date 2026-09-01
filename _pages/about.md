@@ -37,11 +37,11 @@ and efficient adaptation.
 ## Research Interests
 
 <ul class="interest-tags">
+  <li>Foundations of Machine Learning</li>
   <li>Representation Learning</li>
   <li>Information-Theoretic Learning</li>
-  <li>Multimodal Intelligence</li>
-  <li>World Models</li>
   <li>Efficient Adaptation</li>
+  <li>Multimodal Learning</li>
 </ul>
 
 ## News
