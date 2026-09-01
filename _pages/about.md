@@ -66,11 +66,6 @@ and efficient adaptation.
 
 ## Selected Research
 
-My previous research has explored efficient adaptation and knowledge
-transfer in deep neural networks, including parameter-efficient
-fine-tuning, knowledge distillation, and information bottleneck-based
-representation learning.
-
 <h2>Selected Research</h2>
 
 <div class="research-list">
@@ -82,22 +77,23 @@ representation learning.
 
     <h3>Activation Boundary Matching</h3>
 
-    <p class="research-subtitle">
-      Task-Informed Initialization for Low-Rank Adaptation
-    </p>
-
     <p class="research-desc">
-      We found that activation boundaries stabilize earlier than activation
-      values during adaptation, and use this structure to initialize LoRA
-      from a short probe adapter without additional inference overhead.
+      Task-informed LoRA initialization using early-emerging
+      activation boundaries during adaptation.
     </p>
 
     <div class="research-links">
+      <a href="/portfolio/">Project</a>
+
       <a href="https://arxiv.org/abs/2511.19145"
-         target="_blank" rel="noopener">arXiv</a>
+         target="_blank" rel="noopener">
+        arXiv
+      </a>
 
       <a href="https://github.com/lee-research/ABM-LORA"
-         target="_blank" rel="noopener">Code</a>
+         target="_blank" rel="noopener">
+        Code
+      </a>
     </div>
   </div>
 
@@ -109,19 +105,18 @@ representation learning.
 
     <h3>Information-Theoretic Representation Learning</h3>
 
-    <p class="research-subtitle">
-      Information Bottleneck and Invariant Representations
-    </p>
-
     <p class="research-desc">
-      Studied how information-theoretic principles characterize information
-      retention and help distinguish task-relevant from spurious structure
-      in learned representations.
+      Studying information retention and task-relevant structure
+      in learned representations through Information Bottleneck principles.
     </p>
 
     <div class="research-links">
+      <a href="/portfolio/">Project</a>
+
       <a href="https://drive.google.com/file/d/1JDvm08fTdV8UKdTJb93mmhfr-jLsnDpv/view?usp=sharing"
-         target="_blank" rel="noopener">Supplementary</a>
+         target="_blank" rel="noopener">
+        Supplementary
+      </a>
     </div>
   </div>
 
@@ -133,19 +128,18 @@ representation learning.
 
     <h3>HI-LoRA</h3>
 
-    <p class="research-subtitle">
-      Hybrid Initialization for Low-Rank Adaptation
-    </p>
-
     <p class="research-desc">
-      Investigated LoRA initialization by combining gradient-based and
-      magnitude-based information, improving early-training stability
-      and reducing sensitivity to random initialization.
+      Hybrid LoRA initialization combining gradient- and magnitude-based
+      information for more stable adaptation.
     </p>
 
     <div class="research-links">
+      <a href="/portfolio/">Project</a>
+
       <a href="https://github.com/lee-research/HI-LoRA"
-         target="_blank" rel="noopener">Code</a>
+         target="_blank" rel="noopener">
+        Code
+      </a>
     </div>
   </div>
 
