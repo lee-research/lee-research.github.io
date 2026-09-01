@@ -118,3 +118,110 @@
   border: 0 !important;
   border-radius: 18px;
 }
+
+/* ========================================
+   Homepage refinement
+   ======================================== */
+
+.home-intro {
+  max-width: 900px;
+  margin-top: 0;
+  margin-bottom: 3rem;
+}
+
+.home-kicker {
+  margin-top: 0 !important;
+  margin-bottom: 1.3rem !important;
+
+  font-size: 0.78rem !important;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.home-lead {
+  max-width: 900px;
+
+  margin-top: 0 !important;
+  margin-bottom: 1.1rem !important;
+
+  font-size: 1.35rem !important;
+  line-height: 1.75;
+}
+
+
+/* Profile image: slightly smaller and cleaner */
+@media (min-width: 1024px) {
+  .author__avatar img {
+    max-width: 185px;
+    border-radius: 16px;
+  }
+}
+
+
+/* Main action buttons */
+.home-links {
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: 0.65rem;
+  margin-top: 1.5rem;
+}
+
+.home-links a {
+  padding: 0.48rem 0.9rem;
+
+  border: 1px solid var(--global-border-color);
+  border-radius: 999px;
+
+  font-size: 0.82rem;
+  font-weight: 600;
+
+  text-decoration: none !important;
+
+  transition: all 0.15s ease;
+}
+
+.home-links a:hover {
+  transform: translateY(-1px);
+  border-color: var(--global-link-color);
+}
+
+
+/* Research interest pills */
+.interest-tags {
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: 0.55rem;
+
+  padding: 0;
+  margin-top: 0.8rem;
+
+  list-style: none;
+}
+
+.interest-tags li {
+  margin: 0;
+
+  padding: 0.38rem 0.72rem;
+
+  border: 1px solid var(--global-border-color);
+  border-radius: 999px;
+
+  font-size: 0.78rem !important;
+  font-weight: 500;
+}
+
+
+/* Cleaner section titles */
+.page__content h2 {
+  margin-top: 3.2rem;
+  margin-bottom: 1rem;
+
+  padding-bottom: 0;
+  border-bottom: none;
+
+  font-size: 1.35rem;
+  letter-spacing: -0.025em;
+}
