@@ -58,28 +58,22 @@ and efficient adaptation.
 
 <h2>News</h2>
 
-<ul class="news-list-simple">
-  <li>
-    <span class="news-date-simple">[Sep. 2026]</span>
-    <span>Joining Stanford University as an M.S. student in Electrical Engineering.</span>
-  </li>
+<div class="news-simple">
+  <div>
+    <strong>[Sep. 2026]</strong>
+    Joining Stanford University as an M.S. student in Electrical Engineering.
+  </div>
 
-  <li>
-    <span class="news-date-simple">[May 2025]</span>
-    <span>
-      Our work on information-theoretic representation learning
-      was accepted to IEIE Summer Conference 2025.
-    </span>
-  </li>
+  <div>
+    <strong>[May 2025]</strong>
+    Our work on information-theoretic representation learning was accepted to IEIE 2025.
+  </div>
 
-  <li>
-    <span class="news-date-simple">[Nov. 2024]</span>
-    <span>
-      Joined the Computer Vision & Machine Learning Lab at Chung-Ang University
-      as an undergraduate research intern.
-    </span>
-  </li>
-</ul>
+  <div>
+    <strong>[Nov. 2024]</strong>
+    Joined the CVML Lab at Chung-Ang University as an undergraduate research intern.
+  </div>
+</div>
 
 <h2>Selected Research</h2>
 
