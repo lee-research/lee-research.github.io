@@ -895,3 +895,33 @@
 
   color: var(--global-text-color);
 }
+
+/* ========================================
+   About typography refinement
+   ======================================== */
+
+/* Main intro */
+.home-lead {
+  font-size: 1.15rem !important;
+  line-height: 1.7 !important;
+}
+
+/* Second sentence inside intro */
+.home-focus {
+  margin-top: 0.85rem;
+
+  font-size: 0.72em;
+  line-height: 1.6;
+}
+
+
+/* News */
+.news-list li {
+  font-size: 0.82rem !important;
+  line-height: 1.55;
+}
+
+.news-date {
+  font-size: 0.76rem !important;
+  font-weight: 600;
+}
