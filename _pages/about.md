@@ -59,6 +59,68 @@ transfer in deep neural networks, including parameter-efficient
 fine-tuning, knowledge distillation, and information bottleneck-based
 representation learning.
 
+<h2>Selected Research</h2>
+
+<div class="research-grid">
+
+  <div class="research-card">
+    <div class="research-meta">
+      AAAI 2027 · Under Review
+    </div>
+
+    <h3>ABM-LoRA</h3>
+
+    <p class="research-subtitle">
+      Activation Boundary Matching for Low-Rank Adaptation
+    </p>
+
+    <p class="research-desc">
+      A task-informed LoRA initialization method that transfers
+      early-emerging activation boundaries from a short probe adapter
+      to accelerate adaptation without additional inference overhead.
+    </p>
+  </div>
+
+
+  <div class="research-card">
+    <div class="research-meta">
+      IEIE 2025 · Poster
+    </div>
+
+    <h3>Information-Theoretic Representation Learning</h3>
+
+    <p class="research-subtitle">
+      Information Bottleneck and Invariant Representations
+    </p>
+
+    <p class="research-desc">
+      Investigated how information-theoretic principles characterize
+      information retention and the separation of task-relevant and
+      spurious features in learned representations.
+    </p>
+  </div>
+
+
+  <div class="research-card">
+    <div class="research-meta">
+      Undergraduate Thesis
+    </div>
+
+    <h3>HI-LoRA</h3>
+
+    <p class="research-subtitle">
+      Hybrid Initialization for Low-Rank Adaptation
+    </p>
+
+    <p class="research-desc">
+      Studied LoRA initialization through a hybrid strategy combining
+      gradient- and magnitude-based information to improve early-training
+      stability and reduce sensitivity to random initialization.
+    </p>
+  </div>
+
+</div>
+
 <h2>Experience</h2>
 
 <div class="experience-list">
@@ -77,7 +139,7 @@ representation learning.
     </div>
 
     <p class="experience-desc">
-      Conducted research on parameter-efficient fine-tuning and
+      Conducted research on parameter-efficient adaptation and
       information-theoretic representation learning under Prof. Junseok Kwon.
     </p>
 
