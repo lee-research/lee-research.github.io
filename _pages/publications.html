@@ -5,32 +5,89 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<div class="pub-intro">
+  <p>
+    My research focuses on foundational questions in machine learning,
+    with particular interests in representation learning,
+    information-theoretic principles, and efficient adaptation.
+  </p>
+</div>
 
-{% include base_path %}
+<div class="publication-list">
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  <!-- ABM-LoRA -->
+  <div class="publication-item">
+
+    <div class="publication-meta">
+      2027 · AAAI · Under Review
+    </div>
+
+    <h2>
+      Activation Boundary Matching:
+      Task-Informed Initialization for Low-Rank Adaptation
+    </h2>
+
+    <p class="publication-authors">
+      <strong>Dongha Lee*</strong>,
+      Jinhee Park*,
+      Minjun Kim,
+      Junseok Kwon
+    </p>
+
+    <p class="publication-venue">
+      Submitted to the AAAI Conference on Artificial Intelligence (AAAI), 2027.
+      <br>
+      <span>* Equal contribution</span>
+    </p>
+
+    <div class="publication-links">
+      <a href="https://arxiv.org/abs/2511.19145"
+         target="_blank"
+         rel="noopener">
+        arXiv
+      </a>
+
+      <a href="https://github.com/lee-research/ABM-LORA"
+         target="_blank"
+         rel="noopener">
+        Code
+      </a>
+    </div>
+
+  </div>
 
 
+  <!-- Information Bottleneck -->
+  <div class="publication-item">
 
+    <div class="publication-meta">
+      2025 · IEIE · Poster
+    </div>
+
+    <h2>
+      Designing Information Flow in Deep Representations:
+      The Importance of Information Bottleneck and a Case Study in Invariant Learning
+    </h2>
+
+    <p class="publication-authors">
+      <strong>Dongha Lee</strong>,
+      Junseok Kwon
+    </p>
+
+    <p class="publication-venue">
+      Proceedings of the Summer Annual Conference of the
+      Institute of Electronics and Information Engineers (IEIE),
+      Jeju, Korea, 2025.
+    </p>
+
+    <div class="publication-links">
+      <a href="https://drive.google.com/file/d/1JDvm08fTdV8UKdTJb93mmhfr-jLsnDpv/view?usp=sharing"
+         target="_blank"
+         rel="noopener">
+        Supplementary
+      </a>
+    </div>
+
+  </div>
+
+</div>
