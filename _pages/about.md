@@ -52,15 +52,30 @@ and efficient adaptation.
   <li>Optimization & Learning Dynamics</li>
 </ul>
 
-## News
+<h2>News</h2>
 
 <ul class="news-list">
   <li>
     <span class="news-date">2026.09</span>
     <span>Joining Stanford University as an M.S. student in Electrical Engineering.</span>
   </li>
-</ul>
 
+  <li>
+    <span class="news-date">2025.05</span>
+    <span>
+      Our work on information-theoretic representation learning
+      was accepted to the IEIE Summer Conference 2025.
+    </span>
+  </li>
+
+  <li>
+    <span class="news-date">2024.11</span>
+    <span>
+      Joined the Computer Vision & Machine Learning Lab at Chung-Ang University
+      as an undergraduate research intern.
+    </span>
+  </li>
+</ul>
 
 <h2>Selected Research</h2>
 
@@ -185,5 +200,13 @@ and efficient adaptation.
     </p>
 
   </div>
+
+  <h2>Beyond Research</h2>
+
+  <p>
+    Outside of research, I have worked in commercial and fashion photography,
+    including studio production and accredited fashion-week coverage.
+    <a href="/cv/">More in my CV →</a>
+  </p>
 
 </div>
