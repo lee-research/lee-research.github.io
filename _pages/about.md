@@ -24,8 +24,7 @@ and efficient adaptation.
   <p>
     I am an M.S. student in Electrical Engineering at
     <a href="https://www.stanford.edu/" target="_blank" rel="noopener">
-      Stanford University
-    </a>.
+      Stanford University</a>.
     I am interested in understanding the mathematical foundations of
     learning and intelligence, and in using these principles to design
     better learning algorithms.
