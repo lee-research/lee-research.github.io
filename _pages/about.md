@@ -158,7 +158,7 @@ and efficient adaptation.
   <div class="experience-item">
     <div class="experience-top">
       <div>
-        <h3>Research Intern</h3>
+        <h3>Research Assistant</h3>
         <div class="experience-org">
           Computer Vision & Machine Learning Lab · Chung-Ang University
         </div>
