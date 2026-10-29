@@ -46,11 +46,11 @@ and efficient adaptation.
 ## Research Interests
 
 <ul class="interest-tags">
+  <li>Memory &amp; Unlearning in Neural Networks</li>
+  <li>Learning Dynamics</li>
   <li>Representation Learning</li>
+  <li>Parameter-Efficient Adaptation</li>
   <li>Information-Theoretic Learning</li>
-  <li>Generative Learning</li>
-  <li>Probabilistic Modeling & Inference</li>
-  <li>Optimization & Learning Dynamics</li>
 </ul>
 
 <h2>News</h2>
